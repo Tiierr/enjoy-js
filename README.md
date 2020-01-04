@@ -1,4 +1,4 @@
-# enjoy-js
+# Enjoy Time Bar
 
 ## Project setup
 ```
